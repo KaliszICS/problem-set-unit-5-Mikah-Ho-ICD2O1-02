@@ -1,0 +1,11 @@
+K(30%): 70%
+I(30%): 70%
+C(10%): 100%
+A(30%): 70%
+73% of 80 - 58.4%
+
+You were doing well and just didn't get it done.  Frequency could have been done just by using a hashmap to keep track of all the works then printing them out at the end.  You're doing the right things in your work and in the right way (functions that isolate the problem you're trying to do).
+
+The question is, what about school doesn't sit right with you? Is it how you are learning? Is it what you are learning? Is it why you're learning what you are? School is a necessary part of life to help people grow up and make educated decision in their life, learn to develop empathy, sympathy and other basic traits of society. We then can pply them to situations that they didn't learn directly in class but did learn through practice and abstracting ideas.
+But... it is also rooted in tradition.  Many teachers and educators attempt to do what they can to make it better, but at the end of the day, school is what it is because it is what it has always been. And like you teacher's are human and can only do so much. Some of us need real responsibility thrust on us to learn to apply ourselves, some people need a creative outlet, some people need breaks because burnout happens all the time, some people need something else.  We're all different and it's what makes education and school so hard, we all learn different and respond differently to others trying to teach us. But it's also what makes us so unique.
+So i guess the question for you is, what do you want school to be?
